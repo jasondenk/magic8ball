@@ -1,0 +1,20 @@
+﻿body {
+}
+
+.container {
+    text-align:center;
+}
+
+.eightBall {
+    background-image: url('photo/8ball.png');
+    min-height:900px;
+    background-repeat:no-repeat;
+    text-align:center;
+    
+}
+
+.phrase {
+    padding-top:40%;
+    color: aqua;
+}
+
